@@ -1,2 +1,2 @@
 # datasciencecoursera
-John Hopkins Coursera Data Science Specialization
+Johns Hopkins Coursera Data Science Specialization
